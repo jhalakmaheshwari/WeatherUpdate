@@ -1,25 +1,21 @@
-# ReduxSimpleStarter
+This is a Weather Project.
+Integrated with:
+1. Google Maps
+2. Graphs of temperature, humidity measure and pressure at a place in US
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+To get started:
 
-### Getting Started
+(node and npm are pre-requisites)
 
-There are two methods for getting started with this repo.
+A. git clone https://github.com/jhalakmaheshwari/WeatherUpdate in terminal
+B. Do npm install --save
+C. npm start
+D. localhost:8080
+and start searching for temperatures in Web-App
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Technologies Used:
+1. React JS
+2. Javascript
+3. ES6 framework
+4. Node
+5. Npm
